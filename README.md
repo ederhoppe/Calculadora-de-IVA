@@ -1,4 +1,4 @@
-# Ejercicio 2: Calculadora de IVA
+# Calculadora de IVA
 
 ## Descripción
 Un script diseñado para calcular el Impuesto al Valor Agregado (16%) de cualquier monto ingresado. Este ejercicio se enfoca en la conversión de tipos de datos y el manejo de precisión numérica.
