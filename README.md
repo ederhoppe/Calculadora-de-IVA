@@ -1,12 +1,13 @@
 # Calculadora de IVA
+Este repositorio contiene scripts en Python enfocados en la resolución de ejercicios prácticos para el cálculo del Impuesto al Valor Agregado (16%), conversión de tipos de datos y manejo de salidas en consola.
 
-## Descripción
-Un script diseñado para calcular el Impuesto al Valor Agregado (16%) de cualquier monto ingresado. Este ejercicio se enfoca en la conversión de tipos de datos y el manejo de precisión numérica.
+## 📁 Archivos del Repositorio
 
-## Conceptos Aplicados
-* **Casting (float)**: Conversión de la entrada de texto a número decimal.
-* **Operadores Aritméticos**: Multiplicación y suma para cálculos fiscales.
-* **Formateo de Salida**: Uso de precision de decimales (`.2f`) en f-strings.
+* **`Ejercicio_1_T2.py`**: Versión del ejercicio práctico que solicita una cantidad al usuario, calcula el 16% de IVA y presenta el desglose formateado junto con mensajes personalizados.
+* **`Calculadora de IVA.py`**: Script introductorio para el cálculo básico de montos e impuestos.
 
-## Uso
-Ingresa cualquier cantidad numérica (entera o decimal) para obtener el desglose del impuesto y el total.
+## 🛠️ Conceptos Aplicados
+
+* **Casting de tipos (`float`):** Conversión de entradas de texto a valores numéricos.
+* **Operadores Aritméticos:** Operaciones para desglose fiscal (monto base, IVA y total).
+* **Formateo de Salida:** Manejo de concatenación y presentación de resultados en consola.
